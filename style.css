@@ -74,7 +74,7 @@ body {
   }
   
 }
-@media screen and (min-width:960px) and (max-width:1365px){
+@media screen and (min-width:400px) and (max-width:1365px){
   p {
     text-shadow: 0 0 7px rgba(255,255,255,.3), 0 0 3px rgba(255,255,255,.3);
   }
